@@ -7,4 +7,4 @@ Caleb: I also contributed to the code for our project. I tested the code to make
 Triston: Coded and Set up the pir sensor
 
 
-We had to go through multiple cameras and PIR Sensors to find ones that would work, Had to find to wire PIR sensor, and we had to scrap an idea where the recorded videos would have been email to you.
+We had to go through multiple cameras and PIR Sensors to find ones that would work, Had to find to wire PIR sensor, and we had to scrap an idea where the recorded videos would have been emailed to you.
